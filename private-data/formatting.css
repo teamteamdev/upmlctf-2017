@@ -1,0 +1,31 @@
+body {
+  padding: 1em;
+}
+
+.person {
+  padding: 1em;
+  margin: 1em;
+  border: 1px solid black;
+  background-color: #eee;/*rock*/
+  font-size: 1em;
+}
+
+h1,h2 {
+  font-family: Consolas, monospace;
+}
+
+.email {
+  /* some magic to prevent copying (antispam) */
+  /* transform: ecruos_eht_ees_nac_ydobon_ftcu; */
+  color: #00f;
+  text-decoration: underline;
+}
+
+.city {
+  color: #444;
+}
+
+.about {
+  font-size: 0.8em;
+  color: #666;
+}
