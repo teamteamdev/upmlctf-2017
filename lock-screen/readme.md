@@ -8,14 +8,14 @@
 
 ## Write-up
 
-Let's store all valid codes.
+Давайте хранить все корректные коды.
 
-On each step use first valid code, and remove all codes which are inconsistent with one of previous answers.
+На каждом шаге будем запрашивать случайный корректный код и удалять все коды, не подходящие хотя бы под один запрос.
 
-Jury tested it many times and, according to statistics, it will remove at least 2/3 of available codes on each step (usually around 80%).
-It means that for 5 040 valid codes at start we need at most 7-9 tries (if we're unlucky).
-But [author's solution](https://github.com/upmlctf/2017-quals/blob/master/lock-screen/solution.py) has never failed (for 1 000 runs).
+Жюри протестировало решение много раз, и, по статистике, оно удаляет не менее 2/3 доступных кодов на первых трех шагах (обычно даже более 80%). Это означает, что для 5 040 кодов в начале нам нужно всего 7-9 попыток (если мы очень неуспешны).
 
-After 15 guesses, team will get flag.
+[Авторское решение]((https://github.com/upmlctf/2017-quals/blob/master/lock-screen/solution.py) за 1000 запусков ни разу не ошиблось.
 
-Flag: `uctfimp0ssibletosolve`
+Вы получите флаг после 15 правильных кодов.
+
+Флаг: `uctfimp0ssibletosolve`
