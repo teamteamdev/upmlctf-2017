@@ -20,3 +20,11 @@
 13. [Accounts](https://github.com/upmlctf/2017-quals/blob/master/accounts/)
 14. [Dog storage](https://github.com/upmlctf/2017-quals/blob/master/dog-storage/)
 15. [The Last Target](https://github.com/upmlctf/2017-quals/blob/master/the-last-target/)
+
+## Разработчики
+
+**[Никита Сычев](https://t.me/nsychev)** — большая часть тасков, проверяющая система, организация соревнования
+
+**[Ярослав Чёрный](https://vk.com/vid_telecompany)** — разработка игры для [The Last Target](https://github.com/upmlctf/2017-quals/blob/master/the-last-target/)
+
+**[Алёна Алещенкова](https://t.me/azesmpanda)** — легенда соревнования, идеи тасков
