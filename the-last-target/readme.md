@@ -10,7 +10,7 @@
 >
 > But we are very cute and we can't fight! Help us! It's our last chance to finish our mission.
 >
-> [Link](http://ejudge.ufmli.ru/ctf_game.zip)
+> [Link](https://yadi.sk/d/ex7OpszW3F2fpZ)
 
 ## Write-up
 Игру можно было пройти по-честному, с использованием Cheat Engine (или подобных) и даже декомпиляцией игры.
