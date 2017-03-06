@@ -1,5 +1,6 @@
 # UPML CTF 2017 Qualification Round
 
+27 февраля — 2 марта 2017 года |
 [Официальный сайт](https://ctf.upml.tech/2017/)
 
 В каждой задаче находится файл `README.md` с условием и разбором, а также файлы жюри и исходники верных решений (если нужны).
@@ -27,4 +28,4 @@
 
 **[Ярослав Чёрный](https://vk.com/vid_telecompany)** — разработка игры для [The Last Target](https://github.com/upmlctf/2017-quals/blob/master/the-last-target/)
 
-**[Алёна Алещенкова](https://t.me/azesmpanda)** — легенда соревнования, идеи тасков
+**[Алена Алещенкова](https://t.me/azesmpanda)** — легенда соревнования, идеи тасков
