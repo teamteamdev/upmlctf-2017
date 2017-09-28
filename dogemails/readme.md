@@ -2,7 +2,7 @@
 
 > We think, the first task will be easy for you. We found out that they send very strange _dogemails_. We can’t even read them. Maybe you can do it?
 >
-> [Attachment](https://github.com/upmlctf/2017-quals/blob/master/dogemails/email.log)
+> [Attachment](https://github.com/upmlctf/2017/blob/master/dogemails/email.log)
 
 ## Write-up
 

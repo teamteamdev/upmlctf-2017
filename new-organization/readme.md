@@ -10,7 +10,7 @@
 > 
 > _Hint:_ we remember that original file name started with brainco, but we missed the rest part.
 > 
-> [Attachment](https://github.com/upmlctf/2017-quals/blob/master/new-organization/logo.png)
+> [Attachment](https://github.com/upmlctf/2017/blob/master/new-organization/logo.png)
 
 ## Write-up
 Можно найти оригинал картинки 200х200 (или сжать любой другой до такого размера). При сравнении картинок получается довольно странное изображение, в котором есть несколько особенностей:

@@ -8,7 +8,7 @@
 > 
 > _Hint2:_ Wow! They're not empty! There is spaces and tabs in this string!
 >
-> [Attachment](https://github.com/upmlctf/2017-quals/blob/master/weird-program/program.c)
+> [Attachment](https://github.com/upmlctf/2017/blob/master/weird-program/program.c)
 
 ## Write-up
 

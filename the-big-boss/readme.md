@@ -10,7 +10,7 @@
 > 
 > _Hint2:_ we found that file has three different parts.
 >
-> [Attachment](https://github.com/upmlctf/2017-quals/blob/master/the-big-boss/portrait.jpg)
+> [Attachment](https://github.com/upmlctf/2017/blob/master/the-big-boss/portrait.jpg)
 
 ## Write-up
 
