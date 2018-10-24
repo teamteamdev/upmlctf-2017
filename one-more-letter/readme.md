@@ -4,7 +4,7 @@
 > 
 > _Hint:_ this encryption method came from ancient times and it requires an one number key
 >
-> [Attachment](https://github.com/upmlctf/2017/blob/master/one-more-letter/crypted.bin)
+> [Attachment](crypted.bin)
 
 ## Write-up
 

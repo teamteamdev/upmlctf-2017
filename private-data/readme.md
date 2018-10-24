@@ -5,7 +5,7 @@
 > _Hint:_ this page requires one external file. Do you see something unusual in it?
 
 ## Write-up
-На [странице](https://github.com/upmlctf/2017/blob/master/private-data/index.htm) подключается [CSS-файл](https://github.com/upmlctf/2017/blob/master/private-data/formatting.css).
+На [странице](index.htm) подключается [CSS-файл](formatting.css).
 В CSS-файле можно найти достаточно странный комментарий: `transform: ecruos_eht_ees_nac_ydobon_ftcu;`.
 Чтобы получить флаг, нужно перевернуть строку.
 
